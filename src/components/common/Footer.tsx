@@ -175,7 +175,7 @@ export const Footer: React.FC = () => {
                 <h3 className="font-black text-base sm:text-lg">
                   {legalModal === 'disclaimer' && 'Platform & Medical Disclaimer'}
                   {legalModal === 'terms' && 'Terms & Conditions (User Agreement)'}
-                  {legalModal === 'privacy' && 'Clinical Privacy Policy'}
+                  {legalModal === 'privacy' && 'Privacy Policy'}
                 </h3>
               </div>
               <button
